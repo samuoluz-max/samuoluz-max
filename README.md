@@ -1,20 +1,22 @@
 # Olá! Eu sou Samuel 👋
 
-💻 **Estudante de Programação | Desenvolvimento Web | Desenvolvimento de Jogos**
+**Estudante de Programação | Desenvolvimento Web | Desenvolvimento de Jogos**
 
-Atualmente estou estudando **Python, C++, HTML, CSS e JavaScript**, desenvolvendo projetos para colocar em prática o que aprendo.
+Sou estudante de programação e gosto de aprender através da criação de projetos práticos.
 
-Tenho interesse em **desenvolvimento de software, criação de jogos e robótica**, buscando evoluir constantemente minhas habilidades através de projetos práticos.
+Atualmente estudo **Python, C++, HTML, CSS e JavaScript**, com interesse em **desenvolvimento de software, jogos e robótica**.
+
+Meu objetivo é transformar o conhecimento que adquiro nos estudos em projetos reais, evoluindo constantemente minhas habilidades de programação.
 
 ---
 
 ## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
@@ -24,7 +26,9 @@ Tenho interesse em **desenvolvimento de software, criação de jogos e robótica
 
 Jogo desenvolvido para navegador utilizando **HTML, CSS e JavaScript**.
 
-Projeto desenvolvido em equipe, com foco em lógica de programação, desenvolvimento web e criação de experiências interativas.
+O projeto foi desenvolvido em uma equipe de **3 pessoas**, trabalhando com programação, lógica de jogo, interface e desenvolvimento web.
+
+**Tecnologias:** HTML • CSS • JavaScript
 
 🔗 **Jogar:** Em breve  
 📂 **Código:** Em breve
@@ -33,9 +37,9 @@ Projeto desenvolvido em equipe, com foco em lógica de programação, desenvolvi
 
 ### 🐍 Projetos em Python
 
-Projetos desenvolvidos durante meus estudos de **Python**, colocando em prática conceitos de programação e resolução de problemas.
+Projetos desenvolvidos durante meus estudos de **Python**, aplicando conceitos de lógica de programação, estruturas de controle, funções e resolução de problemas.
 
-📂 **Ver projetos:** Em breve
+📂 **Projetos:** Em breve
 
 ---
 
@@ -43,30 +47,32 @@ Projetos desenvolvidos durante meus estudos de **Python**, colocando em prática
 
 Projetos desenvolvidos durante meus estudos de **C++**, com foco em lógica de programação e fundamentos da linguagem.
 
-📂 **Ver projetos:** Em breve
+📂 **Projetos:** Em breve
 
 ---
 
 ## 📚 Atualmente Estudando
 
-- 🐍 Python
-- ⚙️ C++
-- 🌐 HTML
-- 🎨 CSS
-- 🟨 JavaScript
-- 🎮 Desenvolvimento de Jogos
-- 🤖 Robótica
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Desenvolvimento de Jogos
+- Robótica
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
-Continuar evoluindo como programador através de projetos práticos, adquirindo experiência em diferentes áreas da tecnologia e, futuramente, aprofundar meus conhecimentos em **robótica e desenvolvimento de software**.
+Estou buscando evoluir através de projetos práticos e adquirir experiência em diferentes áreas do desenvolvimento de software.
+
+No futuro, pretendo aprofundar meus conhecimentos principalmente em **C++, Python, robótica e desenvolvimento de software**.
 
 ---
 
-## 📈 Minha Evolução
+## 📊 GitHub
 
-Este perfil reúne meus projetos, estudos e experiências durante minha jornada na programação.
+Este perfil reúne meus projetos, estudos e minha evolução durante minha jornada na programação.
 
 > **Aprender → Criar → Melhorar → Repetir.**
