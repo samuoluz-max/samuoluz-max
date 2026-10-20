@@ -1,11 +1,10 @@
-
 # Olá, eu sou Samuel 👋
 
 ### Estudante de Programação | Desenvolvimento Web | Desenvolvimento de Jogos
 
 Sou estudante de programação com foco em **desenvolvimento de software, aplicações web e criação de jogos**.
 
-Atualmente estou desenvolvendo conhecimentos em **Python, C++, HTML, CSS e JavaScript**, utilizando projetos práticos para aplicar conceitos de programação e aprimorar minhas habilidades.
+Atualmente, estou desenvolvendo conhecimentos em **Python, C++, HTML, CSS e JavaScript**, utilizando projetos práticos para aplicar conceitos de programação e aprimorar minhas habilidades.
 
 Também tenho interesse em **robótica**, especialmente no desenvolvimento de soluções utilizando programação e C++.
 
@@ -23,15 +22,17 @@ Também tenho interesse em **robótica**, especialmente no desenvolvimento de so
 
 </div>
 
+### Linguagens mais utilizadas
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=8&theme=dark)
+
 ---
 
 ## Projetos em Destaque
 
 ### 🎮 [Dungeonfall — Jogo Web](https://samuoluz-max.github.io/Dungeonfall/)
 
-Projeto de jogo desenvolvido para navegador utilizando **HTML, CSS e JavaScript**.
-
-Desenvolvido em equipe, com foco em **lógica de programação, desenvolvimento web, interface e criação de experiências interativas**.
+Jogo 2D com temática de masmorras, desenvolvido em equipe para navegador utilizando **HTML, CSS e JavaScript**, com suporte a cooperativo local para 2 a 4 jogadores.
 
 **Tecnologias:** HTML • CSS • JavaScript
 
@@ -69,7 +70,7 @@ Projetos desenvolvidos durante meus estudos de C++, com foco nos **fundamentos d
 
 ## Objetivos
 
-Meu objetivo é construir uma base sólida em programação através de **projetos práticos**, aumentando gradualmente a complexidade dos projetos e adquirindo experiência em diferentes áreas do desenvolvimento de software.
+Meu objetivo é construir uma base sólida em programação por meio de **projetos práticos**, aumentando gradualmente sua complexidade e adquirindo experiência em diferentes áreas do desenvolvimento de software.
 
 Tenho interesse em aprofundar meus conhecimentos em **C++, Python, robótica, desenvolvimento web e desenvolvimento de jogos**.
 
