@@ -22,9 +22,9 @@ Também tenho interesse em **robótica**, especialmente no desenvolvimento de so
 
 </div>
 
-### Linguagens mais utilizadas
+### Linguagens mais utilizadas no GitHub
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=8&theme=dark)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
