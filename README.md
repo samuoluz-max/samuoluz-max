@@ -1,53 +1,77 @@
-<h1 align="center">Hello World, I'm SEU_NOME, be very welcome 👋</h1>
+<div align="center">
+  <h1>Olá! 👋 Eu sou o Samuel</h1>
+  <p>Estudante de Tecnologia da Informação | Desenvolvedor em Formação</p>
+</div>
 
-<p align="center">
-  Estudante de tecnologia, apaixonado(a) por criar jogos, projetos com Arduino e coisas na web.
-</p>
+---
 
-<br>
+### 👨‍💻 Sobre mim
 
-<!-- ESTATÍSTICAS DO GITHUB -->
-<p align="center">
-  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=false&count_private=true" />
-  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=false" />
-</p>
+Sou estudante do 1º ano do Ensino Médio Técnico em **Tecnologia da Informação (TI)** na **UNASP-HT**. Tenho um grande interesse por tecnologia e estou focado em construir uma base sólida em programação. Minhas principais áreas de interesse incluem:
 
-<br>
+- 💻 **Desenvolvimento de Software e Web**
+- 🎮 **Criação de Jogos**
+- 🤖 **Robótica**
 
-<!-- TECNOLOGIAS -->
-<h3 align="center">🛠️ Tecnologias</h3>
+Meu objetivo principal atualmente é aprimorar minhas habilidades lógicas e técnicas através de projetos práticos, construindo um portfólio profissional aqui no GitHub.
 
-<p align="center">
-  <img alt="Tecnologias" src="https://skillicons.dev/icons?i=html,css,js,cpp,arduino,git,github,vscode&theme=dark" />
-</p>
+---
 
-<br>
+### 🛠️ Tecnologias e Ferramentas
 
-<!-- SOBRE MIM -->
-## 👩‍💻 Sobre mim
+Estas são as linguagens e ferramentas que estudo e utilizo no meu dia a dia:
 
-- 🔭 Atualmente trabalhando em: **NOME_DO_PROJETO**
-- 🌱 Aprendendo: **TECNOLOGIA_QUE_ESTOU_ESTUDANDO**
-- 🎮 Gosto de: jogos, eletrônica e programação
-- 📫 Fale comigo: **seuemail@gmail.com**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</div>
 
-<br>
+---
 
-<!-- CONTATOS -->
-<p align="center">
-  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+### 📊 Linguagens mais utilizadas
+
+Este gráfico reflete **exatamente** o código presente nos meus repositórios públicos. Ele lê os dados reais do meu GitHub de forma dinâmica.
+
+<div align="center">
+  <a href="https://github.com/samuoluz-max">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=10&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.twitch.tv/SEU_CANAL" target="_blank">
-    <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
+
+---
+
+### 🌟 Projeto em Destaque
+
+#### ⚔️ [Dungeonfall](https://samuoluz-max.github.io/Dungeonfall/)
+**Dungeonfall** é um jogo 2D para navegador com temática de masmorras e fantasia, focado na experiência multiplayer cooperativa local.
+
+- **Tecnologias:** HTML, CSS e JavaScript.
+- **Modo de Jogo:** Cooperativo local para 2 a 4 jogadores.
+- **Desenvolvimento:** Criado em equipe para aplicar conceitos práticos de lógica e web design.
+- **Status:** Jogável diretamente no navegador!
+
+🔗 **[Clique aqui para jogar Dungeonfall](https://samuoluz-max.github.io/Dungeonfall/)** <br>
+📁 **[Veja meus outros repositórios](https://github.com/samuoluz-max?tab=repositories)**
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuoluz-max&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuoluz-max&theme=dark&hide_border=true" alt="Sequência de Contribuições" />
+</div>
+
+---
+
+### 🎯 Objetivos Profissionais
+- [ ] Concluir o curso técnico em TI com projetos consistentes.
+- [ ] Aprofundar conhecimentos em lógicas de desenvolvimento de jogos (Game Design e mecânicas).
+- [ ] Explorar integrações entre hardware e software em projetos de robótica.
