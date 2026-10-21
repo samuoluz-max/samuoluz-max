@@ -1,84 +1,53 @@
-# 👋 Olá, eu sou Samuel!
+<h1 align="center">Hello World, I'm SEU_NOME, be very welcome 👋</h1>
 
-### Estudante de TI | Desenvolvimento de Software | Desenvolvimento de Jogos
+<p align="center">
+  Estudante de tecnologia, apaixonado(a) por criar jogos, projetos com Arduino e coisas na web.
+</p>
 
-Sou estudante do **1º ano do Ensino Médio Técnico em Tecnologia da Informação no UNASP-HT**, interessado em desenvolvimento de software, aplicações web, criação de jogos e robótica.
+<br>
 
-Atualmente, estudo **Python, C++, HTML, CSS e JavaScript**, desenvolvendo projetos práticos para aprimorar minhas habilidades e construir uma base sólida em programação.
+<!-- ESTATÍSTICAS DO GITHUB -->
+<p align="center">
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=false&count_private=true" />
+  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=false" />
+</p>
 
----
+<br>
 
-## 🚀 Tecnologias e Ferramentas
+<!-- TECNOLOGIAS -->
+<h3 align="center">🛠️ Tecnologias</h3>
 
-<div align="left">
+<p align="center">
+  <img alt="Tecnologias" src="https://skillicons.dev/icons?i=html,css,js,cpp,arduino,git,github,vscode&theme=dark" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br>
 
-</div>
+<!-- SOBRE MIM -->
+## 👩‍💻 Sobre mim
 
----
+- 🔭 Atualmente trabalhando em: **NOME_DO_PROJETO**
+- 🌱 Aprendendo: **TECNOLOGIA_QUE_ESTOU_ESTUDANDO**
+- 🎮 Gosto de: jogos, eletrônica e programação
+- 📫 Fale comigo: **seuemail@gmail.com**
 
-## ⭐ Linguagens mais utilizadas
+<br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=10&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Linguagens dos repositórios de Samuel no GitHub"/>
-
-</div>
-
----
-
-## 🎮 Projetos em Destaque
-
-### [Dungeonfall — Jogo Web](https://samuoluz-max.github.io/Dungeonfall/)
-
-Jogo 2D com temática de masmorras, desenvolvido em equipe utilizando **HTML, CSS e JavaScript**. Possui modo cooperativo local para **2 a 4 jogadores** e pode ser jogado diretamente no navegador.
-
-- 🎮 **Jogar:** [Dungeonfall](https://samuoluz-max.github.io/Dungeonfall/)
-- 💻 **Código-fonte:** [Ver meus repositórios](https://github.com/samuoluz-max?tab=repositories)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samuoluz-max&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=samuoluz-max&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições no GitHub"/>
-
-</div>
-
----
-
-## 📚 Atualmente Estudando
-
-- 🐍 **Python** — lógica de programação e desenvolvimento de aplicações.
-- ⚙️ **C++** — fundamentos da linguagem e programação voltada à robótica.
-- 🌐 **HTML e CSS** — estruturação e estilização de páginas web.
-- 💻 **JavaScript** — interatividade e desenvolvimento web.
-- 🎮 **Desenvolvimento de Jogos** — criação de experiências interativas.
-- 🤖 **Robótica** — programação aplicada a sistemas e soluções tecnológicas.
-
----
-
-## 🎯 Objetivos
-
-Meu objetivo é evoluir continuamente como desenvolvedor por meio de estudos e projetos práticos, aprofundando meus conhecimentos em programação e explorando áreas como desenvolvimento web, jogos e robótica.
-
----
-
-<div align="center">
-
-**Obrigado por visitar meu perfil!** 🚀
-
-[![GitHub](https://img.shields.io/badge/Visite_meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuoluz-max)
-
-</div>
+<!-- CONTATOS -->
+<p align="center">
+  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/SEU_CANAL" target="_blank">
+    <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
