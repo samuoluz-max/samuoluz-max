@@ -1,83 +1,72 @@
-# Olá, eu sou Samuel 👋
+# 👋 Olá, eu sou Samuel!
 
-### Estudante de Programação | Desenvolvimento Web | Desenvolvimento de Jogos
+### Estudante de TI | Desenvolvimento de Software | Desenvolvimento de Jogos
 
-Sou estudante de programação com foco em **desenvolvimento de software, aplicações web e criação de jogos**.
+Sou estudante do **1º ano do Ensino Médio Técnico em Tecnologia da Informação no UNASP-HT**, interessado em desenvolvimento de software, aplicações web, criação de jogos e robótica.
 
-Atualmente, estou desenvolvendo conhecimentos em **Python, C++, HTML, CSS e JavaScript**, utilizando projetos práticos para aplicar conceitos de programação e aprimorar minhas habilidades.
-
-Também tenho interesse em **robótica**, especialmente no desenvolvimento de soluções utilizando programação e C++.
+Atualmente, estudo **Python, C++, HTML, CSS e JavaScript**, desenvolvendo projetos práticos para aprimorar minhas habilidades e construir uma base sólida em programação.
 
 ---
 
-## Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-### Linguagens mais utilizadas no GitHub
+---
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🎮 Projetos em Destaque
+
+### Dungeonfall — Jogo Web
+
+Jogo 2D com temática de masmorras, desenvolvido em equipe utilizando HTML, CSS e JavaScript. Possui modo cooperativo local para **2 a 4 jogadores** e pode ser jogado diretamente no navegador.
+
+- 🎮 [Jogar Dungeonfall](https://samuoluz-max.github.io/Dungeonfall/)
+- 💻 [Explorar meus repositórios](https://github.com/samuoluz-max?tab=repositories)
 
 ---
 
-## Projetos em Destaque
+## 📊 Estatísticas do GitHub
 
-### 🎮 [Dungeonfall — Jogo Web](https://samuoluz-max.github.io/Dungeonfall/)
+<div align="center">
 
-Jogo 2D com temática de masmorras, desenvolvido em equipe para navegador utilizando **HTML, CSS e JavaScript**, com suporte a cooperativo local para 2 a 4 jogadores.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuoluz-max&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-**Tecnologias:** HTML • CSS • JavaScript
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
-- 🌐 **Demo:** [Jogar Dungeonfall](https://samuoluz-max.github.io/Dungeonfall/)
-- 📂 **Código-fonte:** [Ver meus repositórios no GitHub](https://github.com/samuoluz-max?tab=repositories)
-
----
-
-### 🐍 Projetos em Python
-
-Projetos desenvolvidos durante meus estudos de Python, aplicando conceitos como **lógica de programação, estruturas de controle, funções e resolução de problemas**.
-
-- 📂 **Repositórios:** [Ver meus projetos no GitHub](https://github.com/samuoluz-max?tab=repositories)
+</div>
 
 ---
 
-### ⚙️ Projetos em C++
+## 📚 Atualmente Estudando
 
-Projetos desenvolvidos durante meus estudos de C++, com foco nos **fundamentos da linguagem, lógica de programação e desenvolvimento de software**.
-
-- 📂 **Repositórios:** [Ver meus projetos no GitHub](https://github.com/samuoluz-max?tab=repositories)
-
----
-
-## Atualmente Estudando
-
-- **Python** — lógica e desenvolvimento de aplicações
-- **C++** — fundamentos e programação
-- **HTML & CSS** — desenvolvimento e estruturação web
-- **JavaScript** — interatividade e aplicações web
-- **Desenvolvimento de Jogos**
-- **Robótica**
+- 🐍 **Python** — lógica de programação e desenvolvimento de aplicações.
+- ⚙️ **C++** — fundamentos da linguagem e programação voltada à robótica.
+- 🌐 **HTML, CSS e JavaScript** — desenvolvimento web.
+- 🎮 **Desenvolvimento de Jogos** — criação de experiências interativas.
 
 ---
 
-## Objetivos
+## 🎯 Objetivos
 
-Meu objetivo é construir uma base sólida em programação por meio de **projetos práticos**, aumentando gradualmente sua complexidade e adquirindo experiência em diferentes áreas do desenvolvimento de software.
-
-Tenho interesse em aprofundar meus conhecimentos em **C++, Python, robótica, desenvolvimento web e desenvolvimento de jogos**.
+Meu objetivo é evoluir continuamente como desenvolvedor por meio de estudos e projetos práticos, aprofundando meus conhecimentos em programação e explorando áreas como desenvolvimento web, jogos e robótica.
 
 ---
 
-## Sobre este GitHub
+<div align="center">
 
-Este perfil funciona como meu **portfólio de programação**, reunindo projetos pessoais, trabalhos acadêmicos e experiências desenvolvidas durante minha formação.
+**Obrigado por visitar meu perfil!** 🚀
 
-Os projetos aqui publicados representam minha evolução prática e meu processo contínuo de aprendizado.
+[![GitHub](https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuoluz-max)
+
+</div>
