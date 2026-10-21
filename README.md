@@ -29,7 +29,7 @@ Atualmente, estudo **Python, C++, HTML, CSS e JavaScript**, desenvolvendo projet
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=10&theme=github_dark&hide_border=true" alt="Gráfico das linguagens mais utilizadas nos repositórios do GitHub de Samuel"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=10&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Linguagens dos repositórios de Samuel no GitHub"/>
 
 </div>
 
