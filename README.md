@@ -53,21 +53,10 @@ Meu objetivo principal é consolidar meus conhecimentos em lógica de programaç
 > Um jogo 2D de masmorras e fantasia desenvolvido para navegadores, com suporte a modo cooperativo local para 2 a 4 jogadores. Projeto construído em equipe com foco em lógica de jogos e manipulação de DOM.
 
 <div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</div>
-<br>
-<div align="left">
   <a href="https://samuoluz-max.github.io/Dungeonfall/">
     <img alt="Jogar Dungeonfall" src="https://img.shields.io/badge/▶_Jogar_Agora-2EA44F?style=for-the-badge" />
   </a>
-  <a href="https://github.com/samuoluz-max/Dungeonfall">
-    <img alt="Ver o código" src="https://img.shields.io/badge/Código_Fonte-6E40C9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
 
-<br>
 
 ## 📊 Estatísticas
 
