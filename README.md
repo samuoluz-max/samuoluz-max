@@ -71,7 +71,6 @@ Meu objetivo principal é consolidar meus conhecimentos em lógica de programaç
 
 ## 📊 Estatísticas
 
-
 <div align="center">
   <a href="https://github.com/samuoluz-max">
     <img src="https://streak-stats.demolab.com/?user=samuoluz-max&theme=github-dark-blue&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições" />
