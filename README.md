@@ -71,15 +71,7 @@ Meu objetivo principal é consolidar meus conhecimentos em lógica de programaç
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/samuoluz-max">
-    <img src="https://github-readme-stats.vercel.app/api?username=samuoluz-max&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/samuoluz-max">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=donut&langs_count=6&theme=github_dark&hide_border=true&locale=pt-br" height="165" alt="Linguagens mais usadas" />
-  </a>
-</div>
-<br>
+
 <div align="center">
   <a href="https://github.com/samuoluz-max">
     <img src="https://streak-stats.demolab.com/?user=samuoluz-max&theme=github-dark-blue&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições" />
