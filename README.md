@@ -56,13 +56,16 @@ Meu objetivo principal é consolidar meus conhecimentos em lógica de programaç
   <a href="https://samuoluz-max.github.io/Dungeonfall/">
     <img alt="Jogar Dungeonfall" src="https://img.shields.io/badge/▶_Jogar_Agora-2EA44F?style=for-the-badge" />
   </a>
+</div>
 
+<br>
 
 ## 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/samuoluz-max">
-    <img src="https://streak-stats.demolab.com/?user=samuoluz-max&theme=github-dark-blue&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuoluz-max&layout=compact&theme=dark&hide_border=true" height="165" alt="Linguagens mais usadas" />
+    <img src="https://streak-stats.demolab.com/?user=samuoluz-max&theme=dark&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições" />
   </a>
 </div>
 
