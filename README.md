@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:6e40c9&height=130&section=header" alt="Header" width="100%" />
 </div>
 
-<h1 align="center">Samuel Luz</h1>
+<h1 align="center">👋 Olá, meu nome é Samuel Luz</h1>
 
 <p align="center">
   <em>Técnico em Tecnologia da Informação | Desenvolvedor em Formação</em>
